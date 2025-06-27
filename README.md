@@ -1,7 +1,3 @@
-Kodu `README.md` faylında yazı kimi yox, kod kimi görünməsi üçün Markdown formatında düzəlişlər etmək lazımdır. Xüsusilə, kod blokları üçün üç dırnaq (\`\`\`) istifadə edilməlidir.
-
-Aşağıdakı kimi düzəliş edilmiş `README.md` faylı təqdim edirəm:
-
 ## README.md
 
 ### English
